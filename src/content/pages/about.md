@@ -1,4 +1,6 @@
 ---
+_enabled_editors:
+  - content
 title: About
 seo:
   page_description:
