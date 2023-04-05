@@ -10,5 +10,5 @@ seo:
   open_graph_type:
   no_index: false
 content_blocks: []
-layout: '../../ContactPageLayout.astro'
+layout: '../../layouts/ContactPageLayout.astro'
 ---
