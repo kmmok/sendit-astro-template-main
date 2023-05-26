@@ -47,7 +47,7 @@ content_blocks:
       text: Try This Free
     reversed: true
   - _bookshop_name: global/feature
-    image: /images/feature/feature-card-three.png
+    image: /uploads/sauces-home.jpg
     image_alt: Upload box
     title: Free templates to get you started
     description: >-
