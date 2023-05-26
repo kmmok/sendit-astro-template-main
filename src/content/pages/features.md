@@ -25,7 +25,7 @@ content_blocks:
       Sendit is the most complete solution to create beautiful email designs,
       manage mails and send them out at the best price.
   - _bookshop_name: global/feature
-    image: /images/feature/feature-card-one.png
+    image: /uploads/sauces-home-1.jpg
     image_alt: Message inbox
     title: Simply click and send
     description: >-
