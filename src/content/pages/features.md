@@ -16,7 +16,7 @@ content_blocks:
     button:
       link: /signup
       text: Try This Free
-    image: /images/feature/feature-hero.png
+    image: /uploads/e5663b8a-b8fc-4533-b2cf-355db2db71a1.jpeg
     image_alt: Charts
   - _bookshop_name: global/header
     title: 'Sendit '
