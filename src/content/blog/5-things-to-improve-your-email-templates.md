@@ -5,7 +5,7 @@ title: 5 things to improve your email templates
 categories:
 author: Aaron Britt
 thumb_image:
-  image_path:
+  image_path: /uploads/sauces-home-1.jpg
 featured_image:
   image_path:
 seo:
