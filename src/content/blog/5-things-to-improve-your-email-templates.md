@@ -20,7 +20,7 @@ layout: '@layouts/PostLayout.astro'
 ---
 When you send an email campaign, you expect it to reach your readers, right? But what if the emails go straight to your subscribers' spam folders instead of their inboxes? To make sure your emails reach their recipients successfully, follow these email delivery tips.
 
-### Use an ESP-l
+### Use an ESP
 
 Use an email service provider (ESP) that has been tested by third-party email certification services. This ensures that your emails will be accepted by the major ISPs. An ESP that offers multiple IP addresses, or one that allows you to use your own IP address if necessary. ISPs often block messages from unknown senders, so having your own IP address helps get around this issue.
 
